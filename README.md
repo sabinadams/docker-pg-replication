@@ -19,11 +19,9 @@ You need Docker installed on your machine to build containers, run CLI commands 
 
 Follow the instructions provided by Docker's documentation to get Docker installed:
 
-**Mac:** https://docs.docker.com/desktop/install/mac-install/
-
-**Windows:** https://docs.docker.com/desktop/install/windows-install/
-
-**Linux:** https://docs.docker.com/desktop/install/linux-install/
+- **Mac:** https://docs.docker.com/desktop/install/mac-install/
+- **Windows:** https://docs.docker.com/desktop/install/windows-install/
+- **Linux:** https://docs.docker.com/desktop/install/linux-install/
 
 
 ## 2. ngrok installed on your machine
@@ -40,7 +38,7 @@ brew install ngrok/ngrok/ngrok
 ### Windows
 Run the following command in a terminal:
 ```sh
-choco install ngrok
+winget install ngrok
 ```
 
 ### Linux
